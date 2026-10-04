@@ -30,3 +30,4 @@ Thumbs.db
 # Local setup secrets and environments
 1-env-setup/.env
 1-env-setup/my_env/
+2-langchain-foundation/.env
